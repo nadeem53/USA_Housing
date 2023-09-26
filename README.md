@@ -35,4 +35,5 @@ To do this, simply run the following script:
 
 predict.py: This script takes new data as input and outputs predictions from the ML model.
 Credits
+
 This project was created by Nadeem Mustafa.
